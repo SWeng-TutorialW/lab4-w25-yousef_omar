@@ -16,6 +16,19 @@
 		   VBox.vgrow="ALWAYS">
 		<font>
 			<Font size="31.0" />
+
+
+		</font>
+	</Label>
+
+	<Label alignment="CENTER"
+		   maxWidth="2.7976931348623157E308"
+		   text="Yousef Rohana"
+		   textAlignment="CENTER"
+		   VBox.vgrow="ALWAYS">
+		<font>
+			<Font size="31.0" />
+
 		</font>
 	</Label>
 
